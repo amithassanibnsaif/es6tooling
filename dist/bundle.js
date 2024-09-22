@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _circle_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./circle.js */ \"./src/circle.js\");\n\r\n\r\nconst c = new _circle_js__WEBPACK_IMPORTED_MODULE_0__.Circle(10);\r\nc.draw();\r\n\r\nconsole.log('My Name is Priyo;');\r\n\n\n//# sourceURL=webpack://webpack-demo/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _circle_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./circle.js */ \"./src/circle.js\");\n\r\n\r\nconst c = new _circle_js__WEBPACK_IMPORTED_MODULE_0__.Circle(10);\r\nc.draw();\r\n\r\nconsole.log('My Name is Priyo; My wifes name is Tasin');\r\n\n\n//# sourceURL=webpack://webpack-demo/./src/index.js?");
 
 /***/ })
 
